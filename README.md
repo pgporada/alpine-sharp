@@ -23,7 +23,9 @@ This repository makes the following assumptions
 1. Rinse repeat
 
 - - - -
-# License
+# Author information and License
+
+Phil Porada - philporada@gmail.com
 
 MIT
 
