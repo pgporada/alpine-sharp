@@ -1,7 +1,7 @@
 # Alpine Sharp
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
-Installs [libvips](https://pkgs.alpinelinux.org/packages?name=vips*&branch=&repo=&arch=&maintainer=) and [sharp](https://github.com/lovell/sharp) inside of an [Alpine](https://alpinelinux.org/) container. You can check the version of libvips by navigating to the libvips link. Problems you may encounter are the absolute latest version of sharp not supporting the version of libvips in the repository.
+Installs [libvips](https://pkgs.alpinelinux.org/packages?name=vips*&branch=&repo=&arch=&maintainer=) and [sharp](https://github.com/lovell/sharp) inside of an [Alpine](https://alpinelinux.org/) container. You can check the available versions of `vips` and `vips-dev` by navigating to the libvips link. Problems you may encounter are the absolute latest version of sharp not supporting the version of libvips in the repository.
 
 This repository makes the following assumptions
 
