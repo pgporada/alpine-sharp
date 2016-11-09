@@ -29,4 +29,4 @@ Phil Porada - philporada@gmail.com
 
 MIT
 
-(c) 2016 GreenLancer.com
+(c) 2016 [GreenLancer.com](www.greenlancer.com)
