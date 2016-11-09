@@ -25,7 +25,7 @@ This repository makes the following assumptions
 - - - -
 # Author information and License
 
-Phil Porada - philporada@gmail.com
+Phil Porada - philporada@gmail.com & [Dan Rawlins](https://github.com/drrawlins)
 
 MIT
 
