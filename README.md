@@ -29,4 +29,4 @@ Phil Porada - philporada@gmail.com & [Dan Rawlins](https://github.com/drrawlins)
 
 MIT
 
-(c) 2016 [GreenLancer.com](www.greenlancer.com)
+(c) 2016 [GreenLancer.com](http://www.greenlancer.com)
